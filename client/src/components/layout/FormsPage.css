@@ -1,0 +1,28 @@
+.forms-page {
+    padding: 20px;
+    font-family: Arial, sans-serif;
+  }
+  
+  .forms-page h2 {
+    margin-bottom: 20px;
+  }
+  
+  .forms-container {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 40px;
+  }
+  
+  .forms-container > div {
+    flex: 1;
+    margin-right: 20px;
+  }
+  
+  .forms-container > div:last-child {
+    margin-right: 0;
+  }
+  
+  .records-section {
+    margin-top: 40px;
+  }
+  
